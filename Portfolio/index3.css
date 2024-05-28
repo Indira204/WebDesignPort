@@ -67,6 +67,16 @@ figure img {
  
 }
 
+
+figure img {
+  border: 2px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+ 
+}
+
   
 
 figcaption {
