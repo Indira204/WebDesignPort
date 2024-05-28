@@ -58,7 +58,7 @@ h1 {
   
 }
 
-figure img {
+.img3 {
   border: 2px solid black;
   display: block;
   margin-left: auto;
@@ -68,7 +68,7 @@ figure img {
 }
 
 
-figure img {
+.img2 {
   border: 2px solid black;
   display: block;
   margin-left: auto;
